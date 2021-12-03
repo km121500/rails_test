@@ -1,24 +1,41 @@
-# README
+# <ダンスイベント告知サイト>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+<主な機能は２つあります。>
 
-Things you may want to cover:
+<１つ目は、ダンスイベントの告知です。>
+<ダンスイベントの告知では、ユーザーがイベントの投稿をできます。>
+<また、フォロー機能やグループ機能により、イベントの情報をメールで受け取ることができます。>
+<予約機能をつけることにより、主催者側はイベントの人数把握や前売り券の発行にも役立ちます。>
 
-* Ruby version
+<２つ目は、練習会の募集。>
+<スタジオを誰かと一緒に使うことで費用を抑えたい人。>
+<練習会で人数を集めたい人>
+<コメント機能を実装し、練習会の参加や不参加を確認することができます。>
 
-* System dependencies
 
-* Configuration
+### サイトテーマ
+<ダンス告知>
 
-* Database creation
+### テーマを選んだ理由
+<ダンスシーンを盛り上げたい>
 
-* Database initialization
+### ターゲットユーザ
+<ダンスをしている人>
 
-* How to run the test suite
+### 主な利用シーン
+<ダンスイベントの告知がしたい人・知りたい人が利用する>
+<練習会の告知がしたい人・知りたい人が利用する>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 設計書
+<...>
 
-* Deployment instructions
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1yTuSTTM9MyfWITmIsUb7fsCVnzq3LoNJ4i4flpb8Jig/edit?usp=sharing>
 
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
